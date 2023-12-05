@@ -17,7 +17,7 @@ Environment: MacBook equipped with M1 chip
 Interface: Google Colab Pro
 
 ## Repository Structure
-sa7495_mlLab4: Colab Notebook
+sa7495_lab4ML.ipynb: Colab Notebook
 eval.py: Script to assess model accuracy.
 sa7495_mlLab4Report : Report
 Model: model_x_10.h5 , model_x_2.h5 , model_x_4.h5
