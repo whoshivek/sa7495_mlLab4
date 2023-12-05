@@ -15,16 +15,16 @@
 10. Acknowledgements
 
 ## Outline
-This repository contains the code for a new system designed to detect hidden vulnerabilities, or backdoors, within neural networks. The aim of this project is to bolster security within neural networks, especially those trained on the YouTube Face dataset, by creating an advanced model called GoodNet. GoodNet is specifically crafted to distinguish between regular and compromised inputs, effectively categorizing them into distinct groups.
+This repository contains the code for a new system designed to detect hidden vulnerabilities, or backdoors, within neural networks. This project aims to bolster security within neural networks, especially those trained on the YouTube Face dataset, by creating an advanced model called GoodNet. GoodNet is specifically crafted to distinguish between regular and compromised inputs, effectively categorizing them into distinct groups.
 
 ## System Specifications
 Environment: MacBook equipped with M1 chip
 Interface: Google Colab Pro
 
 ## Repository Structure
-sa7495_mlLab4: Colab Notebook.
-model_evaluation.py: Script to assess model accuracy on untainted and compromised datasets.
-Dataset/: Folder containing valid.h5 for validation and test.h5 for testing.
+sa7495_mlLab4: Colab Notebook
+eval.py: Script to assess model accuracy.
+Dataset/: data.txt (all data will be there in this link)
 
 ## Installation and Operation Guide
 Download the repository to your system.
